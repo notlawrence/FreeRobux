@@ -1,0 +1,60 @@
+img{
+	height: 500px;
+	width: 100%;
+	margin-top: 50px;
+}
+body{
+	background-color: black;
+}
+.pee{
+	color: papayawhip;
+	font-family: monospace;
+	font-size: 1.5vw;
+	text-align: center;
+
+}
+.textclass{
+display: flex;
+align-items: center;
+	
+}
+@media(max-width: 576px) {
+	.pee{
+		font-size: 3vw;
+	}
+}
+i{
+	color: white;
+	font-size: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.signin{
+	font-size: 50px;
+	color: papayawhip;
+	text-align: center;
+	margin-top: 50px;
+}
+.yee{
+	color: papayawhip;
+
+}
+.scam{
+	
+    height: 150px;
+    margin: 24px 24px;
+    width: 400px;
+
+}
+
+.text-logo {
+    background-image: url(1234.jpeg);
+    height: 100px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+    border-style: none;
+    margin: 0 24px;
+}
